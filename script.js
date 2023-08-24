@@ -1,3 +1,5 @@
+// Скрипт генератора цвета
+
 const colum = document.querySelectorAll('.colm');
 
 function renderColor(){
